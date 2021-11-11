@@ -59,9 +59,9 @@ Test: 11157 images<br>
 
 - 앱 실행<br>
 
-![그림1](https://user-images.githubusercontent.com/72545216/141384873-54be9af3-9904-471b-80c4-71496a67ee2a.gif)
+![그림1](https://user-images.githubusercontent.com/72545216/141385085-cca0fdc8-d9e1-4aba-9d2e-5899f86ad9e5.gif)
 ![그림2](https://user-images.githubusercontent.com/72545216/141384889-e34bdfea-dec3-4c81-bee1-8a7c54ce08b6.gif)
-![그림3](https://user-images.githubusercontent.com/72545216/141384895-80f81271-2f0d-4c99-af63-048104df5d60.gif)
+![그림3](https://user-images.githubusercontent.com/72545216/141384895-80f81271-2f0d-4c99-af63-048104df5d60.gif)<br>
 ![그림4](https://user-images.githubusercontent.com/72545216/141384903-d6a1b56e-1604-43d7-8609-1807f7af1906.gif)
 ![그림5](https://user-images.githubusercontent.com/72545216/141384911-6a7fc717-d268-41b9-91f9-042e2af9ab46.gif)
 ![그림6](https://user-images.githubusercontent.com/72545216/141384924-7637bdbf-4377-43e9-be6e-908c63c8a569.gif)
