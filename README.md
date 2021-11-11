@@ -37,7 +37,7 @@ Test: 11157 images<br>
 
 - Pytorch + Detectron2
 - Mask R-CNN
-- 데이터 셋
+- 데이터 셋<br>
   Train: 2000 images<br>
   Test: 200 images<br>
 - 결과<br>
