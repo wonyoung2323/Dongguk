@@ -40,7 +40,7 @@ Test: 11157 images
 - 데이터 셋
   Train: 2000 images
   Test: 200 images
-- 결과
+- 결과<br>
 ![명진관](https://user-images.githubusercontent.com/72545216/141384092-27b40b65-cc0c-4e81-896a-ecd8e1b3ee03.png)
 ![사회과학관](https://user-images.githubusercontent.com/72545216/141384135-6f465b86-fee4-4315-b33e-247674de4d1f.png)
 ![정각원](https://user-images.githubusercontent.com/72545216/141384140-468ee1bc-89bf-499e-a094-08ba7aedd3cb.png)
@@ -51,9 +51,9 @@ Test: 11157 images
 ### 결과
 ------
 
-초기 78% -> 최종 98%
+초기 78% -> 최종 98%<br>
 ![결과](https://user-images.githubusercontent.com/72545216/141384308-2ffa562f-90dd-44df-bab4-c3b49bd717cd.png)
 
-- Confusion Matrix
+- Confusion Matrix<br>
 ![confusion](https://user-images.githubusercontent.com/72545216/141384337-eac3d0e2-7fd4-42fe-9d1a-64e92b9d2c2e.png)
 
