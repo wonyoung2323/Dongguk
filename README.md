@@ -10,8 +10,8 @@
 2. 수집한 동영상을 프레임 단위로 잘라 Train 데이터셋 생성 (224*224)
 3. 같은 방식으로 Test 데이터셋 생성 (224*224)
 
-Train: 136536 images
-Test: 11157 images
+Train: 136536 images<br>
+Test: 11157 images<br>
 
 ### 딥러닝 모델
 ------
@@ -38,8 +38,8 @@ Test: 11157 images
 - Pytorch + Detectron2
 - Mask R-CNN
 - 데이터 셋
-  Train: 2000 images
-  Test: 200 images
+  Train: 2000 images<br>
+  Test: 200 images<br>
 - 결과<br>
 ![명진관](https://user-images.githubusercontent.com/72545216/141384092-27b40b65-cc0c-4e81-896a-ecd8e1b3ee03.png)
 ![사회과학관](https://user-images.githubusercontent.com/72545216/141384135-6f465b86-fee4-4315-b33e-247674de4d1f.png)
