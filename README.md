@@ -51,13 +51,13 @@ Test: 11157 images<br>
 ### 결과
 ------
 
-초기 78% -> 최종 98%<br>
+- 초기 78% -> 최종 98%<br>
 ![결과](https://user-images.githubusercontent.com/72545216/141384308-2ffa562f-90dd-44df-bab4-c3b49bd717cd.png)
 
 - Confusion Matrix<br>
 ![confusion](https://user-images.githubusercontent.com/72545216/141384337-eac3d0e2-7fd4-42fe-9d1a-64e92b9d2c2e.png)<br>
 
-- 앱 실행<br>
+- 앱 실행 화면(낮 밤 임의 3개씩)<br>
 
 ![그림1](https://user-images.githubusercontent.com/72545216/141385085-cca0fdc8-d9e1-4aba-9d2e-5899f86ad9e5.gif)
 ![그림2](https://user-images.githubusercontent.com/72545216/141384889-e34bdfea-dec3-4c81-bee1-8a7c54ce08b6.gif)
